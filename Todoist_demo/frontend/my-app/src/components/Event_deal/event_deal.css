@@ -1,0 +1,67 @@
+@import '~antd/dist/antd.css';
+.App {
+  text-align: center;
+}
+.btn {
+}
+.gutter-example .ant-row > div {
+  background: transparent;
+  left: 300px;
+  height: 450px;
+  border: 0;
+}
+.gutter-box {
+  background: #00A0E9;
+  left:300px;
+  height: 450px;
+  padding: 5px 0;
+}
+.in_finish{
+    position:fixed;
+    right:660px;
+    height:20px;
+    font-size:10px;
+    background:white;
+    border-radius:5px;
+}
+.box_finish{
+    position:fixed;
+    right:940px;
+}
+.in_delate{
+    position:fixed;
+    right:340px;
+    height:20px;
+    font-size:10px;
+    background:white;
+    border-radius:5px;
+}
+.page{
+    position:absolute;
+    right:20px;
+    top:470px;
+}
+.clear{
+    position:absolute;
+    right:120px;
+    top:520px;
+}
+.clear_up{
+    position:absolute;
+    right:220px;
+    top:520px;
+}
+.clear_down{
+    position:absolute;
+    top:520px;
+    left:220px
+}
+.p1{
+    font-size:20px;
+    color:red;
+}
+.p2{
+    font-size:20px;
+    color:green;
+}
+
